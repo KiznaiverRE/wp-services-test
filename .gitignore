@@ -2,6 +2,7 @@ wp-config.php
 wp-admin/
 wp-includes/
 wp-content/cache/
+wp-content/ai1wm-backups
 
 *.log
 *.DS_Store
@@ -10,3 +11,4 @@ wp-content/cache/
 
 node_modules/
 vendor/
+"wp-content/ai1wm-backups/" 
