@@ -1,0 +1,12 @@
+wp-config.php
+wp-admin/
+wp-includes/
+wp-content/cache/
+
+*.log
+*.DS_Store
+*.bak
+*.swp
+
+node_modules/
+vendor/

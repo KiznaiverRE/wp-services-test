@@ -1,0 +1,624 @@
+# Copyright (C) 2025 WP Radiant
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Marketing Firm 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/marketing-firm\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-22T12:54:08+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: marketing-firm\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Marketing Firm"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/products/marketing-firm"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Marketing Firm WordPress Theme is a professionally designed website template built specifically for marketing agencies, digital consultants, and creative firms. Whether you specialize in digital marketing, social media marketing, content marketing, or SEO marketing, this theme offers a sleek and fully responsive layout tailored to showcase your marketing expertise. It’s ideal for B2B and B2C marketing firms aiming to promote their services, campaigns, and success stories online with minimal setup and maximum impact. The theme comes packed with features like customizable landing pages, portfolio sections for marketing case studies, SEO optimization tools, and integrated blog layouts for sharing marketing trends, insights, and strategies. Visual elements include clean typography, vibrant call-to-action buttons, and hero sections that highlight your brand marketing identity. With built-in compatibility for marketing automation tools, CRM integration, email marketing plugins, and analytics dashboards, it supports everything from lead generation to customer retention. Whether you're running campaigns in Google Ads, Facebook marketing, influencer marketing, or affiliate marketing, this WordPress theme empowers your online marketing efforts with a modern, fast-loading, and mobile-friendly design. From creative marketing ideas to omnichannel strategies, the Marketing Firm WordPress Theme helps you build a powerful digital presence and elevate your agency’s credibility—all while delivering excellent performance across devices and platforms."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: patterns/footer-default.php:106
+msgid "WP Radiant"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/"
+msgstr ""
+
+#: inc/block-pattern.php:61
+msgid "Marketing Firm Patterns"
+msgstr ""
+
+#: inc/block-style.php:28
+msgid "Borders"
+msgstr ""
+
+#: patterns/404-page.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:11
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:14
+msgid "404"
+msgstr ""
+
+#: patterns/404-page.php:18
+msgid "Unfortunately we can’t find that page."
+msgstr ""
+
+#: patterns/404-page.php:22
+msgid "The page you are looking for doesnt exist or has been moved. Try another url or go to the site homepage."
+msgstr ""
+
+#: patterns/about-us-section.php
+msgctxt "Pattern title"
+msgid "About Us Section"
+msgstr ""
+
+#: patterns/about-us-section.php:11
+msgid "About Us Section"
+msgstr ""
+
+#: patterns/about-us-section.php:41
+msgid "About Us"
+msgstr ""
+
+#: patterns/about-us-section.php:45
+msgid "We want to give you the best services"
+msgstr ""
+
+#: patterns/about-us-section.php:49
+#: patterns/faq-section.php:25
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s"
+msgstr ""
+
+#: patterns/about-us-section.php:59
+msgid "Guaranteed Results"
+msgstr ""
+
+#: patterns/about-us-section.php:63
+#: patterns/about-us-section.php:77
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/about-us-section.php:73
+msgid "Quality Services"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:20
+msgid "Welcome To marketing agency"
+msgstr ""
+
+#: patterns/banner.php:24
+msgid "We Are Creative Digital Marketing Agency"
+msgstr ""
+
+#: patterns/banner.php:28
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,"
+msgstr ""
+
+#: patterns/banner.php:33
+msgid "Explore More"
+msgstr ""
+
+#: patterns/banner.php:37
+msgid "Get Started"
+msgstr ""
+
+#: patterns/banner.php:49
+msgid "Have An Idea"
+msgstr ""
+
+#: patterns/banner.php:53
+msgid "Our Projects ?"
+msgstr ""
+
+#: patterns/banner.php:65
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/banner.php:90
+#: patterns/project-section.php:17
+#: patterns/project-section.php:21
+#: patterns/project-section.php:40
+#: patterns/project-section.php:44
+#: patterns/project-section.php:48
+#: patterns/project-section.php:52
+#: patterns/project-section.php:56
+#: patterns/project-section.php:60
+msgid "Explore"
+msgstr ""
+
+#: patterns/banner.php:94
+msgid "Profit View"
+msgstr ""
+
+#: patterns/banner.php:107
+msgid "Jacqueline John"
+msgstr ""
+
+#: patterns/banner.php:111
+#: patterns/testimonials-section.php:56
+msgid "Manager"
+msgstr ""
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:11
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:17
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: patterns/faq-section.php:21
+msgid "Have Any Questions For Us?"
+msgstr ""
+
+#: patterns/faq-section.php:35
+msgid "What services does your agency offer?"
+msgstr ""
+
+#: patterns/faq-section.php:36
+#: patterns/faq-section.php:42
+#: patterns/faq-section.php:48
+#: patterns/faq-section.php:54
+#: patterns/faq-section.php:60
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/faq-section.php:41
+msgid "Who do you work with?"
+msgstr ""
+
+#: patterns/faq-section.php:47
+msgid "Do you offer customized marketing packages?"
+msgstr ""
+
+#: patterns/faq-section.php:53
+msgid "Can you help us improve our SEO rankings?"
+msgstr ""
+
+#: patterns/faq-section.php:59
+msgid "Do you manage social media accounts?"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:19
+msgid "Lorem Ipsumis simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text "
+msgstr ""
+
+#: patterns/footer-default.php:35
+msgid "Useful Links"
+msgstr ""
+
+#: patterns/footer-default.php:68
+msgid "Services"
+msgstr ""
+
+#: patterns/footer-default.php:84
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:88
+msgid "+1234567890"
+msgstr ""
+
+#: patterns/footer-default.php:92
+msgid "Marketing@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:96
+msgid "123 Glassford Street New York, USA"
+msgstr ""
+
+#: patterns/footer-default.php:106
+msgid "Marketing Firm By "
+msgstr ""
+
+#: patterns/footer-default.php:106
+msgid " | Proudly powered by "
+msgstr ""
+
+#: patterns/footer-default.php:106
+msgid "  WordPress"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:11
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:43
+msgid "Call Us Now"
+msgstr ""
+
+#: patterns/header-default.php:47
+msgid "+12 3456789123"
+msgstr ""
+
+#: patterns/news-section.php
+msgctxt "Pattern title"
+msgid "News Section"
+msgstr ""
+
+#: patterns/news-section.php:11
+msgid "News Section"
+msgstr ""
+
+#: patterns/news-section.php:19
+msgid "News & Blogs"
+msgstr ""
+
+#: patterns/news-section.php:23
+msgid "Our Latest News & blogs"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:11
+msgid "Sidebar Section"
+msgstr ""
+
+#: patterns/primary-sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: patterns/primary-sidebar.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:55
+msgid "Archieve"
+msgstr ""
+
+#: patterns/primary-sidebar.php:67
+msgid "Category"
+msgstr ""
+
+#: patterns/primary-sidebar.php:79
+msgid "Social"
+msgstr ""
+
+#: patterns/project-section.php
+msgctxt "Pattern title"
+msgid "Project Section"
+msgstr ""
+
+#: patterns/project-section.php:11
+msgid "Project Section"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search Page"
+msgstr ""
+
+#: patterns/search.php:11
+msgid "Search Page"
+msgstr ""
+
+#: patterns/testimonials-section.php
+msgctxt "Pattern title"
+msgid "Testimonials Section"
+msgstr ""
+
+#: patterns/testimonials-section.php:11
+msgid "Testimonials Section"
+msgstr ""
+
+#: patterns/testimonials-section.php:23
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials-section.php:27
+msgid "What Say Clients"
+msgstr ""
+
+#: patterns/testimonials-section.php:48
+#: patterns/testimonials-section.php:62
+#: patterns/testimonials-section.php:76
+#: patterns/testimonials-section.php:90
+#: patterns/testimonials-section.php:104
+#: patterns/testimonials-section.php:118
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/testimonials-section.php:52
+msgid "Jean Kalvin"
+msgstr ""
+
+#: patterns/testimonials-section.php:66
+msgid "Alex Morgan"
+msgstr ""
+
+#: patterns/testimonials-section.php:70
+#: patterns/testimonials-section.php:126
+msgid "CEO"
+msgstr ""
+
+#: patterns/testimonials-section.php:80
+msgid "Jordan Blake"
+msgstr ""
+
+#: patterns/testimonials-section.php:84
+msgid "Director"
+msgstr ""
+
+#: patterns/testimonials-section.php:94
+msgid "Taylor Reed"
+msgstr ""
+
+#: patterns/testimonials-section.php:98
+msgid "Product Manager"
+msgstr ""
+
+#: patterns/testimonials-section.php:108
+msgid "Casey Bennett"
+msgstr ""
+
+#: patterns/testimonials-section.php:112
+msgid "Operations Manager"
+msgstr ""
+
+#: patterns/testimonials-section.php:122
+msgid "Anjali Kalvin"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secaccent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Thirdaccent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+msgctxt "Color name"
+msgid "Fourthaccent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secbackground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Color name"
+msgid "tertiary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Gradient"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar Products"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Pacifico"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Urbanist"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""

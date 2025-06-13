@@ -1,0 +1,24 @@
+{
+  "name": "wp-pixel-fusion/composer-with-wordpress",
+  "description": "Example of using Composer for installing WordPress core and plugins",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "wordpress/wordpress",
+        "version": "6.8.1",
+        "type": "wordpress-core",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/WordPress/WordPress/archive/refs/heads/master.zip"
+        }
+      }
+    }
+  ],
+  "require": {
+    "wordpress/wordpress": "*"
+  },
+  "scripts": {
+    "post-install-cmd": "xcopy /E /I /Y vendor\\wordpress\\wordpress\\* .\\"
+  }
+}
