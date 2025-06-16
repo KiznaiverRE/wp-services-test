@@ -10,5 +10,5 @@ wp-content/ai1wm-backups
 *.swp
 
 node_modules/
-vendor/
+/vendor/
 "wp-content/ai1wm-backups/" 
